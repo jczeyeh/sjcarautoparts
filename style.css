@@ -558,8 +558,9 @@ select {
 }
 
 .product-card {
-    background: white;
-
+    background: #111111;
+    color: #ffffff;
+   
     border:
         1px solid var(--border);
 
@@ -646,7 +647,7 @@ select {
 }
 
 .product-info p {
-    color: var(--muted);
+    color: #bbbbbb;
 
     font-size: 13px;
 
