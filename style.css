@@ -136,7 +136,7 @@ select {
 
     z-index: 1000;
 
-    background: rgba(255,255,255,.96);
+    background: #000000;
 
     backdrop-filter: blur(12px);
 
