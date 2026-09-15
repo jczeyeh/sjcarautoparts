@@ -526,7 +526,9 @@ select {
 
     border-radius: 7px;
 
-    background: white;
+background: #111111;
+   
+color: #ffffff;
 
     outline: none;
 
