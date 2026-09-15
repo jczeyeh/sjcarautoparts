@@ -1424,3 +1424,14 @@ color: #ffffff;
     }
 
 }
+
+.logo {
+display: flex;
+align-items: center;
+}
+
+.logo img {
+width: 150px;
+height: auto;
+display: block;
+}
