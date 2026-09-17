@@ -1426,12 +1426,16 @@ color: #ffffff;
 }
 
 .logo {
-display: flex;
-align-items: center;
+    display: flex;
+    align-items: center;
+    width: 150px;
+    height: 55px;
+    flex-shrink: 0;
 }
 
 .logo img {
-width: 150px;
-height: auto;
-display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
 }
