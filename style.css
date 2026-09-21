@@ -1608,3 +1608,16 @@ color: #ffffff;
     background: #1ebe5d;
     transform: translateY(-2px);
 }
+
+.product-card {
+    cursor: pointer;
+
+    transition:
+        transform 0.2s,
+        border-color 0.2s;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    border-color: #e6392f;
+}
