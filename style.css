@@ -1621,3 +1621,61 @@ color: #ffffff;
     transform: translateY(-5px);
     border-color: #e6392f;
 }
+
+.footer-location {
+    text-align: center;
+    padding: 35px 20px;
+    border-top: 1px solid #333333;
+    margin-top: 30px;
+}
+
+.footer-location h3 {
+    color: #ffffff;
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+
+.footer-location p {
+    color: #bbbbbb;
+    margin-bottom: 20px;
+}
+
+.footer-location p i {
+    color: #e6392f;
+    margin-right: 8px;
+}
+
+.map-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 11px 18px;
+
+    background: #222222;
+    color: #ffffff;
+
+    border: 1px solid #444444;
+    border-radius: 8px;
+
+    text-decoration: none;
+
+    transition: 0.2s;
+}
+
+.map-button:hover {
+    background: #e6392f;
+    border-color: #e6392f;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid #333333;
+}
+
+.footer-bottom p {
+    color: #888888;
+    margin: 0;
+    font-size: 14px;
+}
